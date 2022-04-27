@@ -1,0 +1,10 @@
+Ejercicio 1
+1. Entrar a la pagina de los boletos
+2. Seleccionar la película, dia y hora de función; y asientos
+3. Ingresar datos de la tarjeta
+4. Comprar boletos
+5. Recibir la confirmación
+6. Ir al cine el dia y hora de la función
+7. Mostrar confirmación de la compra de boletos en la entrada
+8. Ingresar a la película
+9. Disfrutar

@@ -1,0 +1,17 @@
+Calculadora de area o perímetros de un rectángulo, triangulo isósceles o cuadrado en centimetros donde las medidas serán dadas por el usuario. 
+
+*Quiero una calculadora de áreas y perímetros para figuras, La calculadora solicitara al usuario el nombre de la figura, magnitud a calcular y medidas, 
+NOTA 1: Todo en cm 
+NOTA 2: En triangulo solo considerar el isósceles
+NOTA 3: Considerar que después haya mas figuras
+
+**Requerimientos funcionales°Son aquellos requerimientos que tienen que ver con la solución del usuario 
+
+**Requerimientos no funcionales°Son características que un sistema necesita para funcionar adecuadamente pero que no aportan valor operativo al usuario
+
+1. Ingresar
+2. Preguntar al usuario nombre de la figura y acción a realizar
+3. El usuario ingresa las magnitudes/medidas
+4. El programa realiza la operación 
+5. El programa arroja el resultado
+6. Preguntar si desea calcular en otra figura
